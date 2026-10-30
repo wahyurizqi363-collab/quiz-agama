@@ -9,6 +9,10 @@ Aplikasi kuis **Pendidikan Agama Islam (PAI)** lintas platform yang dibangun den
 ## Tampilan Aplikasi
 
 <!-- Seret screenshot aplikasi ke baris ini saat mengedit README di GitHub -->
+<img width="1365" height="758" alt="Screenshot 2026-10-30 102948" src="https://github.com/user-attachments/assets/71c5f0a4-aa27-43f8-9afb-4443a4dfb2cd" />
+<img width="1365" height="767" alt="Screenshot 2026-10-30 102741" src="https://github.com/user-attachments/assets/659ac9df-8696-41c4-9764-baec91cb4c13" />
+<img width="1365" height="728" alt="Screenshot 2026-10-30 102848" src="https://github.com/user-attachments/assets/48a8019d-86ad-4667-936f-88a52c31a78b" />
+
 
 ## Tentang Proyek
 
